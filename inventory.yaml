@@ -1,0 +1,8 @@
+all:
+  hosts:
+    server1:
+      ansible_host: 192.168.56.102
+      ansible_user: qjltbarquilla
+    server2:
+      ansible_host: 192.168.56.103
+      ansible_user: qjltbarquilla
